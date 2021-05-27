@@ -416,7 +416,7 @@
                     <div class="detail">
                         <img src="assets/resource/images/course/course.jpg" class="img-fluid" alt="">
                     </div>
-                </div>
+                </div> 
                 <div class="col-md-8 col-sm-12 ">
                    <div class="course-section">
                     <div class="row">
